@@ -1,2 +1,2 @@
-# fullcycle-multithreading
+# Fullcycle Multithreading
 Multithreading challenge
